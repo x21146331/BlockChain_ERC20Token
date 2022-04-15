@@ -1,8 +1,8 @@
 Project's Title
 Ethereum ERC20 Token Distribution
 
-Project Description
-
+<b>Project Description</b>
+This repository is a simple ERC20 token distribution to 10 Accounts mentioned in accountstodistribute.txt file.
 
 Technologies
 NodeJS
@@ -11,4 +11,4 @@ Javascript
 
 
 How to Run?
-This repository is a simple ERC20 token distribution to 10 Accounts mentioned in accountstodistribute.txt file.
+
